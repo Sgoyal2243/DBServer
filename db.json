@@ -1,0 +1,175 @@
+{
+    "gsPartnerid": "239d5ee0-a2a8-451f-8171-2a43911cf1ag",
+    "companyDetails": {
+        "legalName": "Thai Nine_Test3",
+        "walmartSupplierSince": 2020,
+        "countryOrRegion": "China",
+        "legacySupplierId": "36222300"
+    },
+    "supplierInformation": {
+        "basicInformartion": {
+            "supplierAddress": {
+                "addressLine1": "11 Brown St",
+                "addressLine2": "11 Brown St",
+                "city": "Dayton",
+                "stateProvinceRegion": "OH",
+                "zipPostalCode": "45402-2826",
+                "country": {
+                    "code": "CA",
+                    "name": "CANADA"
+                }
+            },
+            "webpage": "https://www.thaiNine.com",
+            "email": "thaiNine@tn.com",
+            "phone": {
+                "countryCode": "86",
+                "number": "0385382888"
+            },
+            "fax": {
+                "countryCode": "86",
+                "number": "0385382888"
+            },
+            "companyFoundedYear": 2008,
+            "isVerticallyIntegrated": true,
+            "isPublicListed": false,
+            "supplierNature": "DM",
+            "industryType": "Electronics"
+        },
+        "supplierCapabilities": {
+            "associatedBrands": [
+                "Spring Valley"
+            ],
+            "licenseOrPermits": [
+                "Export License",
+                "ISO 9001"
+            ],
+            "haveMarketplaceCapabilities": true,
+            "haveEDICapabilities": true,
+            "haveDropShipCapability": true,
+            "warehouseOrShippingLocation": [
+                {
+                    "isSelfOwned": true,
+                    "supportsWalmart": true,
+                    "addressLine1": "11 Brown St",
+                    "addressLine2": "11 Brown St",
+                    "city": "Dayton",
+                    "stateProvinceRegion": "OH",
+                    "zipPostalCode": "45402-2826",
+                    "country": {
+                        "code": "CA",
+                        "name": "CANADA"
+                    }
+                }
+            ],
+            "prodcationTechniques": {
+                "plastic": [
+                    "Blow Mold"
+                ],
+                "wood": [
+                    "MDF",
+                    "Seagrass"
+                ],
+                "metal": [
+                    "Iron"
+                ],
+                "ceramic": [
+                    "Stoneware"
+                ],
+                "waxForCandle": [],
+                "others": [
+                    "Cotton"
+                ],
+                "noneOfTheAbove": false
+            },
+            "companyHighlights": "Some text",
+            "sustainabilityEfforts": "Some text again"
+        }
+    },
+    "contact": [
+        {
+            "firstName": "Bobby",
+            "lastName": "Jao",
+            "email": "bobby.jao@tn.com",
+            "phone": {
+                "countryCode": "86",
+                "number": "0385382888"
+            },
+            "mobile": {
+                "countryCode": "86",
+                "number": "0385382888"
+            },
+            "contactRole": "Administrator"
+        }
+    ],
+    "businessProfile": {
+        "totalAnnualSales": [
+            {
+                "year": 2016,
+                "sales": 23000,
+                "isApplicable": true
+            },
+            {
+                "year": 2017,
+                "sales": 23000,
+                "isApplicable": true
+            }
+        ],
+        "totalExports": [
+            {
+                "year": 2016,
+                "exportAmount": 23000,
+                "isApplicable": true
+            },
+            {
+                "year": 2017,
+                "exportAmount": 23000,
+                "isApplicable": true
+            }
+        ],
+        "hasExmpansionPan": true,
+        "expansionInNext3years": [
+            {
+                "year": 2023,
+                "expansionAmount": 23000,
+                "isApplicable": true
+            }
+        ]
+    },
+    "customerProfile": {
+        "customerByMarkets": [
+            {
+                "merketName": "USA",
+                "totalSales": 738300,
+                "totalQuantity": 32000,
+                "majorProductCategory": "Men's Shoes"
+            },
+            {
+                "merketName": "Spain",
+                "totalSales": 38300,
+                "totalQuantity": 3000,
+                "majorProductCategory": "Women's Shoes"
+            }
+        ]
+    },    
+    "agreements": [
+        {
+            "agreementId": 126111,
+            "vendorNumber": 21748,
+            "purchaseCompany": "Walmart-Inc USA",
+            "departmentNumber": 16,
+            "agreementType": "Domestic",
+            "expirationDate": "01/12/2023",
+            "paymentTerms": "OA 90 days",
+            "DA%": 15
+        }
+    ],
+    "documents": [
+        {
+            "documentId": 1234567,
+            "fileName": "Fortune Mate enterprise.pdf",
+            "size": 548000,
+            "dateAttached": "01/12/2021",
+            "attachedBy": "Someone"
+        }
+    ]
+}
